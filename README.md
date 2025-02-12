@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I am William
 
-A person with great enthusiasm for **Electronics Engineering**. Dedicated to becoming a professional **Electronic System Designer**. Bringing diverse, fancy, and cool technologies together to turn components into works of art.
+A person with great enthusiasm for **Electronic Engineering**. Dedicated to becoming a professional **Electronic System Designer**. Bringing diverse, fancy, and cool technologies together to turn components into works of art.
 
 ## 🚀 Rapid Fire
 
@@ -35,7 +35,6 @@ Not a complete list! Sadly, there aren't many icons available for hardware-relat
   <img alt="github-snake" src="https://raw.githubusercontent.com/UnreaLin01/UnreaLin01/output/github-snake.svg" />
 </picture>
 
-
 ## 📷 Gallery
 
 Some of my proudest creations, crafted with passion 🔥 and precision 📐.
@@ -51,10 +50,3 @@ Some of my proudest creations, crafted with passion 🔥 and precision 📐.
 
 ![image](https://hackmd.io/_uploads/Bko42H5F1g.png)
 *Pic.4 - 4 Layers FR4 PCB Layout of TTR8 Safety Unit*
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://hackmd.io/_uploads/Sy_nk8qYJx.png" width="49.2%">
-  <img src="https://hackmd.io/_uploads/HJAcxU9Kyl.jpg" width="49.2%">
-</div>
-
-*Pic.5 - Single Layer Aluminium PCB*
