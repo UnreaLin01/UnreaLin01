@@ -14,7 +14,7 @@ A person with great enthusiasm for **Electronic Engineering**. Dedicated to beco
 - Fun fact: **Love FPS & Rhythm Arcade Game 😂❓**
 
 ## 📌 Experience
-- *Electronics Engineering Student* @ National Taipei University
+- *Electronics Engineering Student* @ National Taipei University of Technology
 - *Electronic System Designer* @ [Taipei Tech Racing](https://www.instagram.com/taipeitechracing/)
 - *Undergraduate Researcher* @ [Signal Processing & Intelligent Electronics Lab](https://academic.ntut.edu.tw/4628/)
 - *Research Assistant* @ [Intelligent Control Lab](https://itlabntut.com/home)
