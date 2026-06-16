@@ -86,7 +86,7 @@ Some of my proudest creations, crafted with passion and precision🔥.
         <i>⮑ 1-Layer Aluminum PCB Layout and CAD Design of Infrared Beacon</i>
     </p>
     <p align="left">
-        <img src="https://hackmd.io/_uploads/rkFer5a-Mg.gif" width="49.5%" alt="Image 1"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1%"><img src="https://hackmd.io/_uploads/S1OPpK6bfx.jpg" width="49.5%" alt="Image 2">
+        <img src="https://hackmd.io/_uploads/HJKmHfJfMg.gif" width="49.5%" alt="Image 1"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1%"><img src="https://hackmd.io/_uploads/S1OPpK6bfx.jpg" width="49.5%" alt="Image 2">
         <i>⮑ The Assembled Infrared Beacon </i>
     </p>
     <blockquote>
